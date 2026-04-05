@@ -1,0 +1,4 @@
+﻿  lab8_c++.cpp
+D:\s\lab8_c++\lab8_c++\lab8_c++.cpp(57,41): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\s\lab8_c++\lab8_c++\lab8_c++.cpp(113,22): warning C4244: инициализация: преобразование "__int64" в "long", возможна потеря данных
+  lab8_c++.vcxproj -> D:\s\lab8_c++\x64\Debug\lab8_c++.exe

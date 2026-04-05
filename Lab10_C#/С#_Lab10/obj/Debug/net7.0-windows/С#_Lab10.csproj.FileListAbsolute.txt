@@ -1,0 +1,17 @@
+D:\С#_Lab10\С#_Lab10\bin\Debug\net7.0-windows\С#_Lab10.exe
+D:\С#_Lab10\С#_Lab10\bin\Debug\net7.0-windows\С#_Lab10.deps.json
+D:\С#_Lab10\С#_Lab10\bin\Debug\net7.0-windows\С#_Lab10.runtimeconfig.json
+D:\С#_Lab10\С#_Lab10\bin\Debug\net7.0-windows\С#_Lab10.dll
+D:\С#_Lab10\С#_Lab10\bin\Debug\net7.0-windows\С#_Lab10.pdb
+D:\С#_Lab10\С#_Lab10\obj\Debug\net7.0-windows\С#_Lab10.csproj.AssemblyReference.cache
+D:\С#_Lab10\С#_Lab10\obj\Debug\net7.0-windows\С__Lab10.Form1.resources
+D:\С#_Lab10\С#_Lab10\obj\Debug\net7.0-windows\С#_Lab10.csproj.GenerateResource.cache
+D:\С#_Lab10\С#_Lab10\obj\Debug\net7.0-windows\С#_Lab10.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#_Lab10\С#_Lab10\obj\Debug\net7.0-windows\С#_Lab10.AssemblyInfoInputs.cache
+D:\С#_Lab10\С#_Lab10\obj\Debug\net7.0-windows\С#_Lab10.AssemblyInfo.cs
+D:\С#_Lab10\С#_Lab10\obj\Debug\net7.0-windows\С#_Lab10.csproj.CoreCompileInputs.cache
+D:\С#_Lab10\С#_Lab10\obj\Debug\net7.0-windows\С#_Lab10.dll
+D:\С#_Lab10\С#_Lab10\obj\Debug\net7.0-windows\refint\С#_Lab10.dll
+D:\С#_Lab10\С#_Lab10\obj\Debug\net7.0-windows\С#_Lab10.pdb
+D:\С#_Lab10\С#_Lab10\obj\Debug\net7.0-windows\С#_Lab10.genruntimeconfig.cache
+D:\С#_Lab10\С#_Lab10\obj\Debug\net7.0-windows\ref\С#_Lab10.dll
